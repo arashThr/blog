@@ -6,5 +6,6 @@ categories:
 tags:
 - 
 thumbnail: 
+draft: true
 ---
 

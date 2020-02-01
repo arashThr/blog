@@ -23,14 +23,14 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories", "translations"] # Order of post meta information
   customCSS = ["assets/style.css", "assets/mainroad.css"]
   post_navigation = true # Show post navigation at bottom of pages if true
-  mainSections = ["blog"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["blog", "learn"] # Specify section pages to show on home page and the "Recent articles" widget
 
 [Params.sidebar]
   home = "left"   # Configure layout for home page
   list = "left"   # Configure layout for list pages
   single = "left" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist", "social"]
+  widgets = ["categories", "taglist", "social"] # Add "search"
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget

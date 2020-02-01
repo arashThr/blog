@@ -1,0 +1,4 @@
+---
+title: آموزش
+menu: main
+---
