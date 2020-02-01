@@ -1,3 +1,44 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "/"
+title = "وبلاگ شخصی آرش طاهر"
+languageCode = "fa-ir"
+defaultContentLanguage = "fa"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+
+[Author]
+  name = "آرش طاهر"
+  bio = "آرش توسعه‌دهنده نرم‌افزار و پادکستر است. این وبلاگ مجموعه تمام مطالبی است که مینویسد."
+  avatar = "img/avatar.png"
+
+[Params]
+  subtitle = "تکنولوژی و برنامه‌نویسی، پادکست و بداهه‌گویی، داستان و آینده‌پژوهی" # Subtitle of your site
+  description = "تکنولوژی و برنامه‌نویسی، پادکست و بداهه‌گویی، داستان و آینده‌پژوهی" # Description of your site
+  opengraph = true
+  twitter_cards = true
+  readmore = false # Show "Read more" button in list if true
+  authorbox = false
+  post_meta = ["date", "categories", "translations"] # Order of post meta information
+  customCSS = ["assets/style.css", "assets/mainroad.css"]
+  post_navigation = true # Show post navigation at bottom of pages if true
+  mainSections = ["blog"] # Specify section pages to show on home page and the "Recent articles" widget
+
+[Params.sidebar]
+  home = "left"   # Configure layout for home page
+  list = "left"   # Configure layout for list pages
+  single = "left" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  twitter = "arashthr"
+  instagram = "arashthr"
+  github = "arashthr"
+  email = "arashthr@outlook.com"
