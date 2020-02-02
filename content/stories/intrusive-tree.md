@@ -1,6 +1,10 @@
 ---
 title: "درخت مزاحم"
 date: 2018-06-16
+categories:
+- داستان
+tags:
+- داستان
 thumbnail: "/media/img/tree.jpeg"
 ---
 

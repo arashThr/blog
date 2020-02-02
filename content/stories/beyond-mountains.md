@@ -1,6 +1,10 @@
 ---
 title: "آنسوی کوهستان"
 date: 2018-01-26T15:18:19+03:30
+categories:
+- داستان
+tags:
+- داستان
 thumbnail: "/media/img/lonely.jpeg"
 ---
 

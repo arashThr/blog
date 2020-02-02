@@ -2,10 +2,9 @@
 title: 
 date: {{ .Date }}
 categories:
-- 
+- داستان
 tags:
-- 
-thumbnail: 
-draft: true
+- داستان
+thumbnail: /media/img/
 ---
 
