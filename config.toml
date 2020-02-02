@@ -9,16 +9,16 @@ googleAnalytics = "UA-157557376-1" # Enable Google Analytics by entering your tr
 
 [Author]
   name = "آرش طاهر"
-  bio = "آرش توسعه‌دهنده نرم‌افزار و پادکستر است. این وبلاگ مجموعه تمام مطالبی است که مینویسد."
-  avatar = "img/avatar.png"
+  bio = "آرش توسعه‌دهنده نرم‌افزار و سازنده پادکست رادیو دال است. در این وبلاگ مشاهدات و دیدگاه‌های خود از ساختن و تجربه کردن را مستند میکند."
+  avatar = "media/arash.jpg"
 
 [Params]
-  subtitle = "تکنولوژی و برنامه‌نویسی، پادکست و بداهه‌گویی، داستان و آینده‌پژوهی" # Subtitle of your site
-  description = "تکنولوژی و برنامه‌نویسی، پادکست و بداهه‌گویی، داستان و آینده‌پژوهی" # Description of your site
+  subtitle = "تکنولوژی و برنامه‌نویسی، پادکست و بداهه‌گویی، علم و تخیل" # Subtitle of your site
+  description = "تکنولوژی و برنامه‌نویسی، پادکست و بداهه‌گویی، علم و تخیل" # Description of your site
   opengraph = true
   twitter_cards = true
   readmore = false # Show "Read more" button in list if true
-  authorbox = false
+  authorbox = true
   post_meta = ["date", "categories", "translations"] # Order of post meta information
   customCSS = ["assets/style.css", "assets/mainroad.css"]
   post_navigation = true # Show post navigation at bottom of pages if true
@@ -29,7 +29,7 @@ googleAnalytics = "UA-157557376-1" # Enable Google Analytics by entering your tr
   list = "left"   # Configure layout for list pages
   single = "left" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["categories", "taglist", "social"] # Add "search"
+  widgets = ["categories", "taglist", "social", "sidemenu"] # Add "search"
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
@@ -41,3 +41,18 @@ googleAnalytics = "UA-157557376-1" # Enable Google Analytics by entering your tr
   instagram = "arashthr"
   github = "arashthr"
   email = "arashthr@outlook.com"
+
+[menu]
+  [[menu.side]]
+    name = "رادیو دال"
+    url = "https://radiodaal.ir"
+    weight = 90
+  [[menu.footer]]
+    name = "رادیو دال"
+    url = "https://radiodaal.ir"
+
+  [[menu.side]]
+    name = "حمایت"
+    url = "https://radiodaal.ir/donation"
+    weight = 100
+

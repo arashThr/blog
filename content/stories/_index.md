@@ -1,4 +1,6 @@
 ---
-title: داستان
-menu: main
+title: داستان‌ها
+menu:
+    side:
+        weight: 30
 ---

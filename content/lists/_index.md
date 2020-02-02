@@ -1,4 +1,6 @@
 ---
 title: لیست‌ها
-menu: main
+menu:
+    side:
+        weight: 20
 ---
