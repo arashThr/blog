@@ -10,6 +10,11 @@ blockquote {
     padding: 5px 10px 5px 15px;
     border-left: unset;
     border-right: 5px solid #e22d30;
+    line-height: 1.8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.8;
 }
 
 .post__thumbnail img {
@@ -31,6 +36,15 @@ blockquote {
 
 .meta__text {
     margin-left: 5px;
+}
+
+.half-img {
+    max-width: 300px;
+    margin: auto;
+}
+
+.authorbox {
+    line-height: 2;
 }
 
 /* Figure */
