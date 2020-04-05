@@ -5,7 +5,7 @@ categories:
 - 
 tags:
 - 
-thumbnail: 
+thumbnail: /media/img/
 draft: true
 ---
 
