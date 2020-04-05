@@ -9,7 +9,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Velvet buzzsaw
 - [ ] Gaslight
 - [ ] Spider vers
-- [ ] The Favourite
+- [x] The Favourite
 - [x] Mission impossible: Fallout
 - [ ] Incredibles 2
 - [x] Eighth grade
@@ -17,22 +17,24 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Bunker Roy
 - [ ] The kingdom of dreams and madness
 - [ ] Nikita
-- [ ] Deadpool 2
+- [x] Deadpool 2
 - [ ] Robbin Wiliams
 - [ ] Free solo
 - [ ] The Edge of Seventeen
-- [ ] Booksmart
+- [x] Booksmart
 - [ ] Under the Silver Lake
 - [ ] When Harry Met Sally...
 - [ ] Parasite
-- [ ] Ode to Joy
-- [ ] JoJo Rabbit
-- [ ] Good boys
+- [x] Good boys
 - [ ] Perfect strangers
 - [ ] Two-Bit Waltz
 - [ ] بهار، تابستان، پائیز، زمستان و بهار
 - [ ] Lighthouse
 - [ ] Gladiator
+- [x] Rouge Trader
+- [ ] Margin Call
+
+‍‍~~JoJo Rabbit~~
 
 # Animations
 - [x] Your Name
@@ -41,6 +43,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] The kingdom of dreams and madness
 - [ ] Alone in the Wilderness
 - [ ] The Great Hack
+- [ ] Roger Ailes
 
 
 {{< /latin >}}

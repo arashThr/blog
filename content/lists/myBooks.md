@@ -18,6 +18,8 @@ summary: لیست کتاب‌ها
 - [ ] Big Magic - Elizabeth Gilbert
 - [ ] Spent: Sex, Evolution, and Consumer Behavior
 - [ ] Normal People - Sally Rooney
+- [ ] Mastery - Robert Greene
+- [ ] The Second Machine Age
 
 ### Lists
 
