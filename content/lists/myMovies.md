@@ -5,45 +5,59 @@ summary: فیلم، انیمیشن، سریال، مستند
 
 {{< latin >}}
 
-# Movies
-- [ ] Velvet buzzsaw
-- [ ] Gaslight
-- [ ] Spider vers
-- [x] The Favourite
-- [x] Mission impossible: Fallout
-- [ ] Incredibles 2
-- [x] Eighth grade
-- [ ] The big blue
-- [ ] Bunker Roy
-- [ ] The kingdom of dreams and madness
-- [ ] Nikita
-- [x] Deadpool 2
-- [ ] Robbin Wiliams
-- [ ] Free solo
-- [ ] The Edge of Seventeen
-- [x] Booksmart
-- [ ] Under the Silver Lake
-- [ ] When Harry Met Sally...
-- [ ] Parasite
-- [x] Good boys
-- [ ] Perfect strangers
-- [ ] Two-Bit Waltz
-- [ ] بهار، تابستان، پائیز، زمستان و بهار
-- [ ] Lighthouse
-- [ ] Gladiator
-- [x] Rouge Trader
-- [ ] Margin Call
+## Movies
+- Velvet buzzsaw
 
-‍‍~~JoJo Rabbit~~
+- Gaslight
 
-# Animations
-- [x] Your Name
+- The big blue
 
-# Documentaries
-- [ ] The kingdom of dreams and madness
-- [ ] Alone in the Wilderness
-- [ ] The Great Hack
-- [ ] Roger Ailes
+- Bunker Roy
+
+- Robbin Wiliams
+
+- Free solo
+
+- The Edge of Seventeen
+
+- Under the Silver Lake
+
+- When Harry Met Sally...
+
+- Parasite
+
+- Perfect strangers
+
+- Two-Bit Waltz
+
+- بهار، تابستان، پائیز، زمستان و بهار
+
+- Lighthouse
+
+- Leave no trace
+
+## Animations
+- Incredibles 2
+
+## TV
+
+- After life (Ricky)
+
+- School of rock (Linklater)
+
+## Documentaries
+
+- The kingdom of dreams and madness
+
+- Alone in the Wilderness
+
+- The Great Hack
+
+- Roger Ailes
+
+## Lists
+
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers/blob/master/readme.md) · GitHub
 
 
 {{< /latin >}}
