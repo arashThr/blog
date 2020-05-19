@@ -7,34 +7,21 @@ summary: فیلم، انیمیشن، سریال، مستند
 
 ## Movies
 - Velvet buzzsaw
-
 - Gaslight
-
 - The big blue
-
 - Bunker Roy
-
 - Robbin Wiliams
-
 - Free solo
-
 - The Edge of Seventeen
-
 - Under the Silver Lake
-
 - When Harry Met Sally...
-
 - Parasite
-
 - Perfect strangers
-
 - Two-Bit Waltz
-
 - بهار، تابستان، پائیز، زمستان و بهار
-
 - Lighthouse
-
 - Leave no trace
+- The invisible man
 
 ## Animations
 - Incredibles 2
@@ -42,8 +29,8 @@ summary: فیلم، انیمیشن، سریال، مستند
 ## TV
 
 - After life (Ricky)
-
 - School of rock (Linklater)
+- Solar opposite
 
 ## Documentaries
 
