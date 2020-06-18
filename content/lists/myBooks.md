@@ -20,6 +20,8 @@ summary: لیست کتاب‌ها
 - [ ] Normal People - Sally Rooney
 - [ ] Mastery - Robert Greene
 - [ ] The Second Machine Age
+- [ ] On Writing Well
+- [ ] Perl Medic
 
 ### Lists
 
@@ -29,7 +31,7 @@ summary: لیست کتاب‌ها
 
 - [ ] در جستجوی طبیعت - غریزه زیست‌گرایی
 - [ ] هویت - میلا کوندرا
-- [ ] **عروس دریایی - نشر افق**
+- [x] [عروس دریایی - نشر افق]( {{< ref "april20.md#کتاب" >}} )
 - [ ] در ستایش بطالت، نوشته‌ی برتراند راسل، ترجمه محمدرضا خانی، نشر نیلوفر
 
 ### معرفی شده

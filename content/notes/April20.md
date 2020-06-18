@@ -54,13 +54,13 @@ Vizi Andrei
 
   چت کردن در تیندر در نوع خودش یه جور تست محسوب میشه، تستی که در اون دو طرف تلاش میکنن به هم ثابت کنن که ما هر دو واقعی هستیم، ما انسان هستیم، توانایی برقراری رابطه جنسی رو داریم، و حتی فراتر از همه اینها قابل دوست داشته شدن هستیم.
 
-  [This is small talk purgatory](https://www.theguardian.com/lifeandstyle/2019/dec/07/small-talk-purgatory-what-tinder-taught-me-about-love): [تیندر](https://www.theguardian.com/lifeandstyle/2019/dec/07/small-talk-purgatory-what-tinder-taught-me-about-love) به من در مورد عشق چه آموخت
+  [This is small talk purgatory](https://www.theguardian.com/lifeandstyle/2019/dec/07/small-talk-purgatory-what-tinder-taught-me-about-love): تیندر به من در مورد عشق چه آموخت
 
 - به اشتراک‌گذاری فایل‌های موسیقی کرک-کوکایین برای رشد اینترنت بود. این موضوع تقاضا در جامعه برای دسترسی به اینترنت رو بیش از هر برنامه‌ی دیگری افزایش داد.
 
   در این بین استیو جابز اولین توزیع کننده معتبر در این بازار شد و آیتونز تبدیل به بستری شد که به اپل اجازه داد از این جریان حداکثر استفاده رو بکنه.
 
-  [مقاله](https://www.theguardian.com/commentisfree/2019/jun/09/farewell-itunes-thanks-for-saving-music-industry-from-itself) [گاردین](https://www.theguardian.com/commentisfree/2019/jun/09/farewell-itunes-thanks-for-saving-music-industry-from-itself) [پیرو](https://www.theguardian.com/commentisfree/2019/jun/09/farewell-itunes-thanks-for-saving-music-industry-from-itself) [خبر](https://www.theguardian.com/commentisfree/2019/jun/09/farewell-itunes-thanks-for-saving-music-industry-from-itself) [تعطیل](https://www.theguardian.com/commentisfree/2019/jun/09/farewell-itunes-thanks-for-saving-music-industry-from-itself) [شدن](https://www.theguardian.com/commentisfree/2019/jun/09/farewell-itunes-thanks-for-saving-music-industry-from-itself) [آیتونز](https://www.theguardian.com/commentisfree/2019/jun/09/farewell-itunes-thanks-for-saving-music-industry-from-itself)
+[مقاله گاردین پیرو خبر تعطیل شدن آیتونز](https://www.theguardian.com/commentisfree/2019/jun/09/farewell-itunes-thanks-for-saving-music-industry-from-itself)
 
 ## کتاب
 
