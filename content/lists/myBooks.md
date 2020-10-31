@@ -22,6 +22,7 @@ summary: لیست کتاب‌ها
 - [ ] The Second Machine Age
 - [ ] On Writing Well
 - [ ] Perl Medic
+- [ ] Limitless Mind - Joe Boaler
 
 ### Lists
 

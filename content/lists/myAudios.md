@@ -10,6 +10,7 @@ summary: پادکست و کتاب صوتی
 - [ ] Longform: 329: David Grann
 - [ ] Heavy weight: #23 Alex
 - [ ] How to be amazing:  Episode 100: Terry Gross
+- [x] (https://www.flashforwardpod.com/2019/12/03/power-the-sleeping-lion/)[Power: The sleeping lion]
 
 
 ## Audio books

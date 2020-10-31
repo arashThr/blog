@@ -33,7 +33,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] After life (Ricky)
 - [ ] School of rock (Linklater)
 - [ ] Solar opposite
-- [ ] Black mirror
+- [x] Black mirror
 
 ## Documentaries
 
