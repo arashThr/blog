@@ -8,4 +8,19 @@ summary: برنامه‌های کاربردی
 - Curio: Listen to the best journalism
 - No-bullshit games: Games with no ads
 
+## Media
+- Podcasts:
+    - Anthenapod
+    - Google Podcasts
+    - Spotify
+- Video
+    - YouTube
+    - NewPipe
+
+## Productivity
+- Note takings:
+    - Simple Note
+    - Standard Notes
+- Bookmarking: Diigo
+    
 {{< /latin >}}

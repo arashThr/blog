@@ -5,15 +5,13 @@ summary: لیست کتاب‌ها
 
 {{< latin >}}
 
-- [ ] Homo-sepians
-- [ ] Deep work
+- [X] Homo-sepians
+- [X] Deep work
 - [ ] **12 Rules for Life**
 - [ ] Josef Albers: Interaction of color
 - [ ] The internet of money
 - [ ] Motivation and Personality, by Abraham Maslow (1970). What really motivates people?
 - [ ] **21 Lessons for 21 Century**
-- [ ] NodeJs Design Patterns
-- [ ] Conversations with God
 - [ ] Originals - Adam Grant
 - [ ] Big Magic - Elizabeth Gilbert
 - [ ] Spent: Sex, Evolution, and Consumer Behavior
@@ -34,6 +32,7 @@ summary: لیست کتاب‌ها
 - [ ] هویت - میلا کوندرا
 - [x] [عروس دریایی - نشر افق]( {{< ref "april20.md#کتاب" >}} )
 - [ ] در ستایش بطالت، نوشته‌ی برتراند راسل، ترجمه محمدرضا خانی، نشر نیلوفر
+- [ ] هیچ دوستی به جز کوهستان
 
 ### معرفی شده
 

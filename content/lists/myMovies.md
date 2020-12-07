@@ -6,12 +6,9 @@ summary: فیلم، انیمیشن، سریال، مستند
 {{< latin >}}
 
 ## Movies
-- [ ] Velvet buzzsaw
 - [ ] Gaslight
 - [ ] The big blue
 - [ ] Bunker Roy
-- [ ] Robbin Wiliams
-- [ ] Free solo
 - [ ] Under the Silver Lake
 - [ ] [The Edge of Seventeen](https://www.imdb.com/title/tt1878870?ref_=vp_vi_tt)
 - [ ] When Harry Met Sally...
@@ -20,27 +17,29 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Two-Bit Waltz
 - [ ] بهار، تابستان، پائیز، زمستان و بهار
 - [ ] Lighthouse
+- [X] Velvet buzzsaw - 3/10
 - [ ] Leave no trace
-- [ ] The invisible man
-- [ ] [Experimenter (2015)](https://www.imdb.com/title/tt3726704?ref_=vp_vi_tt)
+- [ ] School of rock (Linklater)
 
 ## Animations
 - [ ] Incredibles 2
 
 ## TV
 
-- [X] Devs
-- [X] After life (Ricky)
-- [ ] School of rock (Linklater)
-- [ ] Solar opposite
-- [x] Black mirror
+- [X] Devs - 8/10
+- [X] After life (Ricky) - 5/10
+- ~~Solar opposite~~
+- [X] Black mirror - 10/10
 
 ## Documentaries
 
-- The kingdom of dreams and madness
-- Alone in the Wilderness
-- The Great Hack
-- Roger Ailes
+- [ ] Robbin Wiliams
+- [ ] Free solo
+- [X] AlphaGo - 7/10
+- [ ] The kingdom of dreams and madness
+- [ ] Alone in the Wilderness
+- [ ] The Great Hack
+- [ ] Roger Ailes
 
 ## Lists
 
