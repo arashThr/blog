@@ -22,5 +22,19 @@ summary: برنامه‌های کاربردی
     - Simple Note
     - Standard Notes
 - Bookmarking: Diigo
-    
+
+
+
+## Text
+
+- Markdown: Typora
+
+
+
+## Terminal
+
+- Tmux
+- [rga](https://github.com/phiresky/ripgrep-all)
+
 {{< /latin >}}
+

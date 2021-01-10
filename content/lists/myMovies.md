@@ -19,7 +19,9 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Lighthouse
 - [X] Velvet buzzsaw - 3/10
 - [ ] Leave no trace
-- [ ] School of rock (Linklater)
+- [x] School of rock (Linklater)
+- [x] Shining
+- [ ] [Harrison Bergeron](https://vimeo.com/325695626)
 
 ## Animations
 - [ ] Incredibles 2
@@ -44,6 +46,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 ## Lists
 
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers/blob/master/readme.md) · GitHub
+- [Best Movies to Watch](https://www.artofmanliness.com/articles/100-must-see-movies/): 100 Must See Movies | The Art of Manliness
 
 
-{{< /latin >}}
+  {{< /latin >}}
