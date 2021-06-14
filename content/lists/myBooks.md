@@ -13,17 +13,16 @@ summary: لیست کتاب‌ها
 - [ ] Motivation and Personality, by Abraham Maslow (1970). What really motivates people?
 - [ ] 21 Lessons for 21 Century
 - [ ] Originals - Adam Grant
-- [ ] Big Magic - Elizabeth Gilbert
 - [ ] Spent: Sex, Evolution, and Consumer Behavior
-- [ ] Normal People - Sally Rooney
 - [ ] **Mastery - Robert Greene**
 - [ ] The Second Machine Age
 - [ ] On Writing Well
 - [ ] Perl Medic
 - [ ] Limitless Mind - Joe Boaler
-- [ ] **Don't make me think**
-- [ ] Rocket surgery made easy
+- [X] Don't make me think
+- [X] Rocket surgery made easy
 - [ ] Sources of Power: How People Make Decisions - Gary Klein
+- [ ] Thinking, Fast and Slow
 
 ### Lists
 
@@ -35,7 +34,8 @@ summary: لیست کتاب‌ها
 - [ ] هویت - میلا کوندرا
 - [x] [عروس دریایی - نشر افق]( {{< ref "april20.md#کتاب" >}} )
 - [ ] در ستایش بطالت، نوشته‌ی برتراند راسل، ترجمه محمدرضا خانی، نشر نیلوفر
-- [ ] **هیچ دوستی به جز کوهستان**
+- [X] هیچ دوستی به جز کوهستان
+- [ ] **پاچینکو**
 
 ### معرفی شده
 

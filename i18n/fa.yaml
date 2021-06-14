@@ -28,7 +28,7 @@
 
 # Authorbox
 - id: authorbox_name
-  translation: درباره {{ .Count }}
+  translation: "درباره {{ .Name }}"
 
 # Sidebar
 - id: sidebar_warning

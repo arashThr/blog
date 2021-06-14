@@ -18,10 +18,17 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] بهار، تابستان، پائیز، زمستان و بهار
 - [ ] Lighthouse
 - [X] Velvet buzzsaw - 3/10
-- [ ] Leave no trace
-- [x] School of rock (Linklater)
-- [x] Shining
+- [X] Leave no trace - 6/10
+- [X] School of rock (Linklater) - 7/10
+- [X] Shining
 - [ ] [Harrison Bergeron](https://vimeo.com/325695626)
+- [X] Okja - 8/10
+- [ ] Another round
+- [ ] The bridges of madison county
+
+## Shows
+- [X] Inside - 9/10
+- [X] Make Happy - 7/10
 
 ## Animations
 - [ ] Incredibles 2
@@ -40,7 +47,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] AlphaGo - 7/10
 - [ ] The kingdom of dreams and madness
 - [ ] Alone in the Wilderness
-- [ ] The Great Hack
+- [X] The Great Hack
 - [ ] Roger Ailes
 - [ ] [Apollo 11](https://www.youtube.com/watch?v=3Co8Z8BQgWc)
 

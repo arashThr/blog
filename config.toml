@@ -6,6 +6,7 @@ paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "arash-taher" # Enable comments by entering your Disqus shortname
 googleAnalytics = "UA-157557376-1" # Enable Google Analytics by entering your tracking id
+ignoreErrors = ["error-remote-getjson"]
 
 [Author]
   name = "آرش طاهر"
@@ -55,4 +56,3 @@ googleAnalytics = "UA-157557376-1" # Enable Google Analytics by entering your tr
     name = "حمایت"
     url = "https://radiodaal.ir/donation"
     weight = 100
-
