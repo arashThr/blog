@@ -12,7 +12,7 @@ summary: لیست کتاب‌ها
 - [ ] The Internet of money
 - [ ] Motivation and Personality, by Abraham Maslow (1970). What really motivates people?
 - [ ] 21 Lessons for 21 Century
-- [ ] Originals - Adam Grant
+- [ ] ~~Originals - Adam Grant~~
 - [ ] Spent: Sex, Evolution, and Consumer Behavior
 - [ ] **Mastery - Robert Greene**
 - [ ] The Second Machine Age
@@ -23,6 +23,7 @@ summary: لیست کتاب‌ها
 - [X] Rocket surgery made easy
 - [ ] Sources of Power: How People Make Decisions - Gary Klein
 - [ ] Thinking, Fast and Slow
+- [ ] [Cats and the Good Life](https://lareviewofbooks.org/article/cats-and-the-good-life/)
 
 ### Lists
 
