@@ -17,14 +17,15 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Two-Bit Waltz
 - [ ] بهار، تابستان، پائیز، زمستان و بهار
 - [ ] Lighthouse
-- [X] Velvet buzzsaw - 3/10
-- [X] Leave no trace - 6/10
-- [X] School of rock (Linklater) - 7/10
+- [X] Velvet buzzsaw - 3
+- [X] Leave no trace - 6
+- [X] School of rock (Linklater) - 7
 - [X] Shining
 - [ ] [Harrison Bergeron](https://vimeo.com/325695626)
-- [X] Okja - 8/10
-- [ ] Another round
-- [ ] The bridges of madison county
+- [X] Okja - 8
+- [X] Another round - 8
+- [X] The bridges of madison county - 7
+- [ ] Cyrano
 
 ## Shows
 - [X] Inside - 9/10
@@ -35,10 +36,11 @@ summary: فیلم، انیمیشن، سریال، مستند
 
 ## TV
 
-- [X] Devs - 8/10
-- [X] After life (Ricky) - 5/10
-- ~~Solar opposite~~
-- [X] Black mirror - 10/10
+- [X] Devs - 8
+- [X] After life (Ricky) - 5
+- [X] Black mirror - 9
+- [ ] Borgen
+- [ ] Arcane
 
 ## Documentaries
 
