@@ -19,12 +19,13 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Lighthouse
 - [X] Velvet buzzsaw - 3
 - [X] Leave no trace - 6
-- [X] School of rock (Linklater) - 7
+- [X] School of rock - 7
 - [X] Shining
-- [ ] [Harrison Bergeron](https://vimeo.com/325695626)
+- [X] [Harrison Bergeron](https://vimeo.com/325695626)
 - [X] Okja - 8
 - [X] Another round - 8
 - [X] The bridges of madison county - 7
+- [ ] Ronin
 - [ ] Cyrano
 
 ## Shows
@@ -39,8 +40,8 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Devs - 8
 - [X] After life (Ricky) - 5
 - [X] Black mirror - 9
-- [ ] Borgen
-- [ ] Arcane
+- [ ] Borgen - 9
+- [X] Arcane - 9
 
 ## Documentaries
 
@@ -58,5 +59,4 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers/blob/master/readme.md) · GitHub
 - [Best Movies to Watch](https://www.artofmanliness.com/articles/100-must-see-movies/): 100 Must See Movies | The Art of Manliness
 
-
-  {{< /latin >}}
+{{< /latin >}}
