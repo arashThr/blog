@@ -8,7 +8,6 @@ tags:
 - ترجمه
 - آینده
 thumbnail: "/media/img/sun.jpg"
-draft: true
 ---
 
 این پست ترجمه‌ای جزئی است این [پست](https://dynomight.net/thanks/). لیست بلندبالا و جالبی است. مجموعه‌ای از اینکه:
