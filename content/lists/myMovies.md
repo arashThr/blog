@@ -11,7 +11,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Bunker Roy
 - [ ] Under the Silver Lake
 - [ ] [The Edge of Seventeen](https://www.imdb.com/title/tt1878870?ref_=vp_vi_tt)
-- [ ] When Harry Met Sally...
+- [X] When Harry Met Sally... - 7
 - [ ] Parasite
 - [ ] Perfect strangers
 - [ ] Two-Bit Waltz
@@ -27,10 +27,18 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] The bridges of madison county - 7
 - [ ] Ronin
 - [ ] Cyrano
+- [X] Top Gun: Maverick - 9
+- [X] Everything, everywhere, all at once - 9
+- [ ] Crimes of the future
+- [ ] Three thousands years of longing
+- [ ] Knives out
+- [ ] Analyze that
 
 ## Shows
 - [X] Inside - 9/10
 - [X] Make Happy - 7/10
+- [ ] Louie CK: Sorry
+- [ ] Ricky Gervais: Super Nature
 
 ## Animations
 - [ ] Incredibles 2
@@ -40,8 +48,10 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Devs - 8
 - [X] After life (Ricky) - 5
 - [X] Black mirror - 9
-- [ ] Borgen - 9
+- [X] Borgen - 9
 - [X] Arcane - 9
+- [ ] Joe Pera Talks With You
+- [ ] Prehistoric planet
 
 ## Documentaries
 
