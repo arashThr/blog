@@ -23,6 +23,8 @@ summary: لیست کتاب‌ها
 - [ ] Thinking, Fast and Slow
 - [ ] [Cats and the Good Life](https://lareviewofbooks.org/article/cats-and-the-good-life/)
 - [X] Moonwalking with Einstein
+- [ ] The Secrets of Words - Noam Chomsky
+- [ ] Man of mathematics
 
 #### Tech
 - [ ] **Monolith to Microservices**

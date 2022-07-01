@@ -10,13 +10,11 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] The big blue
 - [ ] Bunker Roy
 - [ ] Under the Silver Lake
-- [ ] [The Edge of Seventeen](https://www.imdb.com/title/tt1878870?ref_=vp_vi_tt)
+- [ ] The Edge of Seventeen
 - [X] When Harry Met Sally... - 7
 - [ ] Parasite
 - [ ] Perfect strangers
-- [ ] Two-Bit Waltz
 - [ ] بهار، تابستان، پائیز، زمستان و بهار
-- [ ] Lighthouse
 - [X] Velvet buzzsaw - 3
 - [X] Leave no trace - 6
 - [X] School of rock - 7
@@ -26,19 +24,19 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Another round - 8
 - [X] The bridges of madison county - 7
 - [ ] Ronin
-- [ ] Cyrano
 - [X] Top Gun: Maverick - 9
 - [X] Everything, everywhere, all at once - 9
 - [ ] Crimes of the future
 - [ ] Three thousands years of longing
-- [ ] Knives out
-- [ ] Analyze that
+- [X] Knives out - 7
+- [X] Analyze that - 5
+- [X] Jurassic World Dominion - 2
 
 ## Shows
-- [X] Inside - 9/10
-- [X] Make Happy - 7/10
+- [X] Inside - 9
+- [X] Make Happy - 7
 - [ ] Louie CK: Sorry
-- [ ] Ricky Gervais: Super Nature
+- [X] Ricky Gervais: Super Nature - 7
 
 ## Animations
 - [ ] Incredibles 2
@@ -52,6 +50,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Arcane - 9
 - [ ] Joe Pera Talks With You
 - [ ] Prehistoric planet
+- [ ] [Clark](https://www.imdb.com/title/tt12304420/)
 
 ## Documentaries
 
