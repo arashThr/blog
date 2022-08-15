@@ -12,13 +12,9 @@ summary: لیست کتاب‌ها
 - [ ] The Internet of money
 - [ ] 21 Lessons for 21 Century
 - [ ] Spent: Sex, Evolution, and Consumer Behavior
-- [ ] **Mastery - Robert Greene**
 - [ ] The Second Machine Age
 - [ ] On Writing Well
-- [ ] Perl Medic
-- [ ] Limitless Mind - Joe Boaler
-- [X] Don't make me think
-- [X] Rocket surgery made easy
+- [X] Perl Medic
 - [ ] Sources of Power: How People Make Decisions - Gary Klein
 - [ ] Thinking, Fast and Slow
 - [ ] [Cats and the Good Life](https://lareviewofbooks.org/article/cats-and-the-good-life/)
@@ -28,6 +24,9 @@ summary: لیست کتاب‌ها
 
 #### Tech
 - [ ] **Monolith to Microservices**
+- [X] Don't make me think
+- [X] Rocket surgery made easy
+- [ ] A Philosophy of Software Design
 
 ### Lists
 

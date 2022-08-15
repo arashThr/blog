@@ -31,6 +31,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Knives out - 7
 - [X] Analyze that - 5
 - [X] Jurassic World Dominion - 2
+- [X] Bullet train - 4
 
 ## Shows
 - [X] Inside - 9
