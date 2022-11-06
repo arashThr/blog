@@ -78,4 +78,4 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers/blob/master/readme.md) · GitHub
 - [Best Movies to Watch](https://www.artofmanliness.com/articles/100-must-see-movies/): 100 Must See Movies | The Art of Manliness
 
-{{< /Latin >}}
+{{< /latin >}}
