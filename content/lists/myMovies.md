@@ -27,12 +27,12 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Top Gun: Maverick - 9
 - [X] Everything, everywhere, all at once - 9
 - [ ] Crimes of the future
-- [ ] Three thousands years of longing
+- [X] Three thousands years of longing: 7
 - [X] Knives out - 7
 - [X] Analyze that - 5
 - [X] Jurassic World Dominion - 2
 - [X] Bullet train - 4
-- [ ] Triangle of Sadness - 8
+- [X] Triangle of Sadness - 8
 - [ ] The Phantom of the Opera
 - [ ] One Fine Day
 - [ ] You've Got Mail
@@ -49,29 +49,37 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Ricky Gervais: Super Nature - 7
 
 ## Animations
-- [ ] Incredible 2
+- [X] Encanto - 6
+- [X] Coraline - 10
+- [X] Sprited Away - 8
+- [X] Luck - 1
+- [X] Your Name - 9
+- [ ] Howl's Moving Castl - 7
+- [ ] Luca
+- [ ] Spiderman: Into the Spiderverse
+- [ ] Turning Red
 
 ## TV
 
-- [X] DECs - 8
+- [X] DEVs - 8
 - [X] After life (Ricky) - 5
 - [X] Black mirror - 9
-- [X] Bergen - 9
+- [X] Borgen - 9
 - [X] Arcane - 9
 - [ ] Joe Pear Talks With You
-- [ ] Prehistoric planet
 - [ ] [Clark](https://www.imdb.com/title/tt12304420/)
 
 ## Documentaries
 
+- [X] True Cost - 9
 - [ ] Robbin Williams
 - [ ] Free solo
-- [X] Alpha Go - 7/10
+- [X] Alpha Go - 7
 - [ ] The kingdom of dreams and madness
 - [ ] Alone in the Wilderness
-- [X] The Great Hack
+- [X] The Great Hack - 7
 - [ ] Roger Aisles
-- [ ] [Apollo 11](https://www.youtube.com/watch?v=3Co8Z8BQgWc)
+- [X] [Apollo 11](https://www.youtube.com/watch?v=3Co8Z8BQgWc) - 9
 
 ## Lists
 

@@ -7,25 +7,28 @@ summary: لیست کتاب‌ها
 
 - [X] Homo-sepians
 - [X] Deep work
-- [ ] **12 Rules for Life**
 - [ ] Josef Albers: Interaction of color
 - [ ] The Internet of money
 - [ ] 21 Lessons for 21 Century
 - [ ] Spent: Sex, Evolution, and Consumer Behavior
+- [ ] 12 Rules for Life
 - [ ] The Second Machine Age
 - [ ] On Writing Well
-- [X] Perl Medic
 - [ ] Sources of Power: How People Make Decisions - Gary Klein
 - [ ] Thinking, Fast and Slow
 - [ ] [Cats and the Good Life](https://lareviewofbooks.org/article/cats-and-the-good-life/)
 - [X] Moonwalking with Einstein
 - [ ] The Secrets of Words - Noam Chomsky
 - [ ] Man of mathematics
+- [ ] **Build**
+- [ ] Econimcs basics
+- [ ] **The Invisible Man**
 
 #### Tech
 - [ ] **Monolith to Microservices**
 - [X] Don't make me think
 - [X] Rocket surgery made easy
+- [X] Perl Medic
 - [ ] A Philosophy of Software Design
 
 ### Lists
