@@ -41,6 +41,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] 28 Days Later
 - [ ] Tanks you for Smoking
 - [ ] Office Space
+- [X] See how they run - 5
 
 ## Shows
 - [X] Inside - 9
@@ -54,10 +55,11 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Sprited Away - 8
 - [X] Luck - 1
 - [X] Your Name - 9
-- [ ] Howl's Moving Castl - 7
+- [X] Howl's Moving Castl - 7
 - [ ] Luca
 - [ ] Spiderman: Into the Spiderverse
 - [ ] Turning Red
+- [ ] The Iron Giant
 
 ## TV
 

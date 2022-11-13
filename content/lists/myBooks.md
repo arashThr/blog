@@ -15,14 +15,14 @@ summary: لیست کتاب‌ها
 - [ ] The Second Machine Age
 - [ ] On Writing Well
 - [ ] Sources of Power: How People Make Decisions - Gary Klein
-- [ ] Thinking, Fast and Slow
 - [ ] [Cats and the Good Life](https://lareviewofbooks.org/article/cats-and-the-good-life/)
 - [X] Moonwalking with Einstein
 - [ ] The Secrets of Words - Noam Chomsky
 - [ ] Man of mathematics
-- [ ] **Build**
-- [ ] Econimcs basics
+- [X] Build
+- [ ] **Econimcs basics**
 - [ ] **The Invisible Man**
+- [ ] [The Future of Fusion Energy (Popular Science)](https://eli.thegreenplace.net/2022/book-review-the-future-of-fusion-energy-by-j-parisi-and-j-ball/)
 
 #### Tech
 - [ ] **Monolith to Microservices**
