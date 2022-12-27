@@ -7,8 +7,6 @@ summary: لیست کتاب‌ها
 
 - [X] Homo-sepians
 - [X] Deep work
-- [ ] Josef Albers: Interaction of color
-- [ ] The Internet of money
 - [ ] 21 Lessons for 21 Century
 - [ ] Spent: Sex, Evolution, and Consumer Behavior
 - [ ] 12 Rules for Life
@@ -20,15 +18,18 @@ summary: لیست کتاب‌ها
 - [ ] The Secrets of Words - Noam Chomsky
 - [ ] Man of mathematics
 - [X] Build
-- [ ] **Econimcs basics**
+- [ ] **Economics basics**
 - [ ] **The Invisible Man**
 - [ ] [The Future of Fusion Energy (Popular Science)](https://eli.thegreenplace.net/2022/book-review-the-future-of-fusion-energy-by-j-parisi-and-j-ball/)
+- [ ] The hitchhiker's guid to galaxy
+- [ ] [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street-dp-1324051132/dp/1324051132/ref=nav_signin)
 
 #### Tech
-- [ ] **Monolith to Microservices**
+- [X] Monolith to Microservices
 - [X] Don't make me think
 - [X] Rocket surgery made easy
 - [X] Perl Medic
+- [ ] Effective TypeScript
 - [ ] A Philosophy of Software Design
 
 ### Lists
@@ -46,6 +47,6 @@ summary: لیست کتاب‌ها
 
 ### معرفی شده
 
-- شاه - عباس میلانی
 - خودباوری در خلاقیت
+- شاه - عباس میلانی
 - خطاهای شناختی

@@ -6,15 +6,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 {{< latin >}}
 
 ## Movies
-- [ ] Gaslight
-- [ ] The big blue
-- [ ] Bunker Roy
-- [ ] Under the Silver Lake
-- [ ] The Edge of Seventeen
 - [X] When Harry Met Sally... - 7
-- [ ] Parasite
-- [ ] Perfect strangers
-- [ ] بهار، تابستان، پائیز، زمستان و بهار
 - [X] Velvet buzzsaw - 3
 - [X] Leave no trace - 6
 - [X] School of rock - 7
@@ -23,25 +15,35 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Okja - 8
 - [X] Another round - 8
 - [X] The bridges of Madison county - 7
-- [ ] Ronin
 - [X] Top Gun: Maverick - 9
 - [X] Everything, everywhere, all at once - 9
-- [ ] Crimes of the future
 - [X] Three thousands years of longing: 7
 - [X] Knives out - 7
 - [X] Analyze that - 5
 - [X] Jurassic World Dominion - 2
 - [X] Bullet train - 4
 - [X] Triangle of Sadness - 8
+- [X] The Edge of Seventeen - 3
+- [X] Tanks you for Smoking - 7
+- [ ] The invisible man
+- [ ] Gaslight
+- [ ] The big blue
+- [ ] Under the Silver Lake
+- [ ] Parasite
+- [ ] Perfect strangers
+- [ ] بهار، تابستان، پائیز، زمستان و بهار
+- [ ] Crimes of the future
+- [ ] Ronin
 - [ ] The Phantom of the Opera
-- [ ] One Fine Day
 - [ ] You've Got Mail
 - [ ] 12 Monkeys
 - [ ] Equilibrium
 - [ ] 28 Days Later
-- [ ] Tanks you for Smoking
 - [ ] Office Space
-- [X] See how they run - 5
+- [ ] Death in Nile
+- [ ] Northman
+- [ ] The Whale
+- [ ] All Quiet on the Western Front
 
 ## Shows
 - [X] Inside - 9
