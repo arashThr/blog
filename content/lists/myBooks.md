@@ -17,12 +17,11 @@ summary: لیست کتاب‌ها
 - [X] Moonwalking with Einstein
 - [ ] The Secrets of Words - Noam Chomsky
 - [ ] Man of mathematics
-- [X] Build
-- [ ] **Economics basics**
 - [ ] **The Invisible Man**
 - [ ] [The Future of Fusion Energy (Popular Science)](https://eli.thegreenplace.net/2022/book-review-the-future-of-fusion-energy-by-j-parisi-and-j-ball/)
 - [ ] The hitchhiker's guid to galaxy
 - [ ] [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street-dp-1324051132/dp/1324051132/ref=nav_signin)
+- [ ] Crime and punishment
 
 #### Tech
 - [X] Monolith to Microservices
@@ -31,6 +30,13 @@ summary: لیست کتاب‌ها
 - [X] Perl Medic
 - [ ] Effective TypeScript
 - [ ] A Philosophy of Software Design
+
+
+### Audio books
+- [X] Build
+- [X] Surely You're Joking, Mr. Feynman!
+- [ ] **Economics basics**
+- [ ] [**The First Fifteen Lives of Harry August**](https://youtu.be/dMYgY5FhO3M?t=306)
 
 ### Lists
 

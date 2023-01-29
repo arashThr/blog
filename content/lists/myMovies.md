@@ -25,25 +25,29 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Triangle of Sadness - 8
 - [X] The Edge of Seventeen - 3
 - [X] Tanks you for Smoking - 7
+- [X] Avatar: The way of water - 2
 - [ ] The invisible man
 - [ ] Gaslight
 - [ ] The big blue
-- [ ] Under the Silver Lake
 - [ ] Parasite
 - [ ] Perfect strangers
-- [ ] بهار، تابستان، پائیز، زمستان و بهار
+- [ ] Spring, Summer, Fall, Winter... and Spring
 - [ ] Crimes of the future
 - [ ] Ronin
 - [ ] The Phantom of the Opera
 - [ ] You've Got Mail
-- [ ] 12 Monkeys
-- [ ] Equilibrium
-- [ ] 28 Days Later
 - [ ] Office Space
 - [ ] Death in Nile
 - [ ] Northman
 - [ ] The Whale
 - [ ] All Quiet on the Western Front
+- [ ] The black phone
+- [ ] Kung Fu Hustle
+- [ ] They live
+- [ ] The Menu
+- [ ] Blue jay
+- [ ] The Banshees Of Inisherin
+- [ ] RRR
 
 ## Shows
 - [X] Inside - 9
@@ -62,6 +66,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Spiderman: Into the Spiderverse
 - [ ] Turning Red
 - [ ] The Iron Giant
+- [ ] Nichijou
 
 ## TV
 
@@ -69,9 +74,12 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] After life (Ricky) - 5
 - [X] Black mirror - 9
 - [X] Borgen - 9
-- [X] Arcane - 9
+- [X] Arcane - 10
 - [ ] Joe Pear Talks With You
 - [ ] [Clark](https://www.imdb.com/title/tt12304420/)
+- [ ] Better Things
+- [ ] Cosmos
+- [ ] Fleabag
 
 ## Documentaries
 
