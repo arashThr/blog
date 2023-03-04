@@ -26,6 +26,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] The Edge of Seventeen - 3
 - [X] Tanks you for Smoking - 7
 - [X] Avatar: The way of water - 2
+- [X] Babylon - 5
 - [ ] The invisible man
 - [ ] Gaslight
 - [ ] The big blue
@@ -48,12 +49,19 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Blue jay
 - [ ] The Banshees Of Inisherin
 - [ ] RRR
+- [ ] The Fabelmans
+- [ ] Platoon
+- [ ] [Past lives](https://www.youtube.com/watch?v=kA244xewjcI)
+- [ ] Confessions
+- [ ] The act of killing
+- [ ] [Memories of Matsuko](https://en.m.wikipedia.org/wiki/Memories_of_Matsuko)
 
 ## Shows
-- [X] Inside - 9
+- [X] Inside (Bo Burnham) - 9
 - [X] Make Happy - 7
-- [ ] Louie CK: Sorry
+- [X] Louie CK: Sorry - 5
 - [X] Ricky Gervais: Super Nature - 7
+- [ ] Louis CK Back To The Garden
 
 ## Animations
 - [X] Encanto - 6
@@ -64,9 +72,10 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Howl's Moving Castl - 7
 - [ ] Luca
 - [ ] Spiderman: Into the Spiderverse
-- [ ] Turning Red
-- [ ] The Iron Giant
-- [ ] Nichijou
+- [ ] The bad guys
+- [ ] The red turtle
+- [ ] Peter and the wolf
+- [ ] Fantastic planet
 
 ## TV
 
@@ -80,6 +89,8 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Better Things
 - [ ] Cosmos
 - [ ] Fleabag
+- [X] Poker face - 2 (1 episode)
+- [ ] Succession
 
 ## Documentaries
 
@@ -92,6 +103,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] The Great Hack - 7
 - [ ] Roger Aisles
 - [X] [Apollo 11](https://www.youtube.com/watch?v=3Co8Z8BQgWc) - 9
+- [X] The Swedish Theory of Love
 
 ## Lists
 
