@@ -39,7 +39,7 @@ summary: لیست کتاب‌ها
 
 - [Jordan Peterson | Great Books](https://www.jordanbpeterson.com/great-books/)
 
-{{< /Latin >}}
+{{< /latin >}}
 
 - [ ] در جستجوی طبیعت - غریزه زیست‌گرایی
 - [ ] هویت - میلا کوندرا
