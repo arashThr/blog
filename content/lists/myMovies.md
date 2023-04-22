@@ -50,6 +50,9 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Lawrence of Arabia
 - [ ] Good morning, Vietnam
 - [ ] Police Story
+- [ ] Petrov's Flu
+- [ ] The Portable Door
+- [ ] Pig
 
 ## Shows
 - [X] Inside (Bo Burnham) - 9
@@ -106,6 +109,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 
 ## Lists
 
+- [Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi)
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers/blob/master/readme.md) · GitHub
 - [Best Movies to Watch](https://www.artofmanliness.com/articles/100-must-see-movies/): 100 Must See Movies | The Art of Manliness
 
