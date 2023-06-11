@@ -28,6 +28,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Avatar: The way of water - 2
 - [X] Babylon - 5
 - [X] John Wick, Chapter 4 - 4
+- [X] Tetris - 7
 - [ ] Inside
 - [ ] The invisible man
 - [ ] Gaslight
@@ -51,16 +52,22 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Good morning, Vietnam
 - [ ] Police Story
 - [ ] Petrov's Flu
-- [ ] The Portable Door
-- [ ] Pig
+- [ ] American Psycho
+- [ ] Poor things
+- [ ] The invisible guest
+- [ ] Pig (Persian)
 
 ## Shows
 - [X] Inside (Bo Burnham) - 9
 - [X] Make Happy - 7
 - [X] Louie CK: Sorry - 5
 - [X] Ricky Gervais: Super Nature - 7
-- [ ] Louis CK Back To The Garden
+- [X] Louis CK at the Dolby: 8
 - [ ] Chris Rock: Selective outrage
+- [ ] Olive Kitteridge
+- [ ] Past lives
+- [ ] Anatomy of a fall
+- [ ] Crazy Rich Asians
 
 ## Animations
 - [X] Encanto - 6
@@ -68,13 +75,16 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Sprited Away - 8
 - [X] Luck - 1
 - [X] Your Name - 9
-- [X] Howl's Moving Castl - 7
+- [X] Howl's Moving Castle - 7
+- [X] Puss in boots: The last wish - 8
 - [ ] Luca
 - [ ] Spiderman: Into the Spiderverse
+- [X] Spiderman: Across the Spiderverse - 9
 - [ ] The bad guys
 - [ ] The red turtle
 - [ ] Peter and the wolf
 - [ ] Fantastic planet
+- [ ] The tale of the princess Kaguya
 
 ## TV
 
@@ -83,14 +93,13 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Black mirror - 9
 - [X] Borgen - 9
 - [X] Arcane - 10
+- [ ] Golden boy - 9
 - [ ] Joe Pear Talks With You
 - [ ] [Clark](https://www.imdb.com/title/tt12304420/)
-- [ ] Better Things
 - [ ] Cosmos
 - [ ] Fleabag
 - [X] Poker face - 2 (1 episode)
-- [ ] Succession
-- [ ] Tetris
+- [ ] **Succession**
 
 ## Documentaries
 
