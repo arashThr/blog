@@ -55,7 +55,8 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] American Psycho
 - [ ] Poor things
 - [ ] The invisible guest
-- [ ] Pig (Persian)
+- [ ] Crazy Rich Asians
+- [ ] Shoplifters
 
 ## Shows
 - [X] Inside (Bo Burnham) - 9
@@ -67,7 +68,6 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Olive Kitteridge
 - [ ] Past lives
 - [ ] Anatomy of a fall
-- [ ] Crazy Rich Asians
 
 ## Animations
 - [X] Encanto - 6
@@ -100,6 +100,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Fleabag
 - [X] Poker face - 2 (1 episode)
 - [ ] **Succession**
+- [ ] The black mirror (Season 6)
 
 ## Documentaries
 
