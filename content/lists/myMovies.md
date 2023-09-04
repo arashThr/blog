@@ -29,9 +29,12 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Babylon - 5
 - [X] John Wick, Chapter 4 - 4
 - [X] Tetris - 7
+- [X] Gaslight - 9
+- [X] Mission: Impossible – Dead Reckoning Part One - 7
+- [X] Oppenheimer - 4
+- [X] Chungking Express - Need more time to appreciate it
+- [X] The invisible man - 7 The best you can do with Invisible man material
 - [ ] Inside
-- [ ] The invisible man
-- [ ] Gaslight
 - [ ] The big blue
 - [ ] Parasite
 - [ ] Spring, Summer, Fall, Winter... and Spring
@@ -47,7 +50,6 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Confessions
 - [ ] The act of killing
 - [ ] [Memories of Matsuko](https://en.m.wikipedia.org/wiki/Memories_of_Matsuko)
-- [ ] No hard feelings
 - [ ] Lawrence of Arabia
 - [ ] Good morning, Vietnam
 - [ ] Police Story
@@ -57,6 +59,12 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] The invisible guest
 - [ ] Crazy Rich Asians
 - [ ] Shoplifters
+- [ ] True lies
+- [ ] 2046
+- [ ] Fallen angel
+- [ ] Past lives
+- [ ] Anatomy of a fall
+- [ ] The Wonderful Story of Henry Sugar
 
 ## Shows
 - [X] Inside (Bo Burnham) - 9
@@ -66,8 +74,6 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Louis CK at the Dolby: 8
 - [ ] Chris Rock: Selective outrage
 - [ ] Olive Kitteridge
-- [ ] Past lives
-- [ ] Anatomy of a fall
 
 ## Animations
 - [X] Encanto - 6
@@ -85,6 +91,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Peter and the wolf
 - [ ] Fantastic planet
 - [ ] The tale of the princess Kaguya
+- [ ] Suzume
 
 ## TV
 
@@ -93,29 +100,31 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Black mirror - 9
 - [X] Borgen - 9
 - [X] Arcane - 10
-- [ ] Golden boy - 9
+- [X] Poker face - 2 (1 episode)
+- [X] Succession - 9
+- [X] Golden boy - 9
 - [ ] Joe Pear Talks With You
 - [ ] [Clark](https://www.imdb.com/title/tt12304420/)
 - [ ] Cosmos
 - [ ] Fleabag
-- [X] Poker face - 2 (1 episode)
-- [ ] **Succession**
 - [ ] The black mirror (Season 6)
 
 ## Documentaries
 
 - [X] True Cost - 9
-- [ ] Robbin Williams
-- [ ] Free solo
 - [X] Alpha Go - 7
-- [ ] The kingdom of dreams and madness
-- [ ] Alone in the Wilderness
 - [X] The Great Hack - 7
-- [ ] Roger Aisles
 - [X] [Apollo 11](https://www.youtube.com/watch?v=3Co8Z8BQgWc) - 9
 - [X] The Swedish Theory of Love
+- [X] Sugar man - 7
+- [X] Robbin Williams - 5
+- [ ] The Lost Leonardo
 - [ ] The real Charlie Chaplin
-- [ ] Judorowsky's Dune
+- [ ] The kingdom of dreams and madness
+- [ ] Alone in the Wilderness
+- [ ] Roger Aisles
+- [ ] Free solo
+- [ ] The Mole: Undercover in North Korea
 
 ## Lists
 

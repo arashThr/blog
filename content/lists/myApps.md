@@ -9,7 +9,8 @@ summary: برنامه‌های کاربردی
 - No-bullshit games: Games with no ads
 - Inoreader: Feed reader
 - NewPipe: YouTube client
-- Anthenapod: Poddcast catcher
+- Anthenapod: Podcast catcher
+- Organic Maps: Offline maps
 
 ## Productivity
 - Note takings:
