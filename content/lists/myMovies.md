@@ -34,6 +34,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Oppenheimer - 4
 - [X] Chungking Express - Need more time to appreciate it
 - [X] The invisible man - 7 The best you can do with Invisible man material
+- [X] Gloomy Sunday - 8
 - [ ] Inside
 - [ ] The big blue
 - [ ] Parasite
@@ -65,6 +66,8 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Past lives
 - [ ] Anatomy of a fall
 - [ ] The Wonderful Story of Henry Sugar
+- [ ] Wings of Desire
+- [ ] Hot Fuzz
 
 ## Shows
 - [X] Inside (Bo Burnham) - 9
@@ -83,9 +86,9 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Your Name - 9
 - [X] Howl's Moving Castle - 7
 - [X] Puss in boots: The last wish - 8
-- [ ] Luca
 - [ ] Spiderman: Into the Spiderverse
 - [X] Spiderman: Across the Spiderverse - 9
+- [ ] Luca
 - [ ] The bad guys
 - [ ] The red turtle
 - [ ] Peter and the wolf
@@ -93,7 +96,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] The tale of the princess Kaguya
 - [ ] Suzume
 
-## TV
+## Series
 
 - [X] DEVs - 8
 - [X] After life (Ricky) - 5
@@ -108,6 +111,9 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [ ] Cosmos
 - [ ] Fleabag
 - [ ] The black mirror (Season 6)
+- [ ] Blossoms Shanghai
+- [ ] Erased
+- [ ] Smack the Pony
 
 ## Documentaries
 
@@ -118,6 +124,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] The Swedish Theory of Love
 - [X] Sugar man - 7
 - [X] Robbin Williams - 5
+- [X] Becoming Warren Buffet - 4
 - [ ] The Lost Leonardo
 - [ ] The real Charlie Chaplin
 - [ ] The kingdom of dreams and madness

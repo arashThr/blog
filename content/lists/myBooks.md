@@ -10,17 +10,20 @@ summary: لیست کتاب‌ها
 - [X] Deep work
 - [X] Moonwalking with Einstein - Useful tips, scientific, engaging story
 - [ ] **The Art of Loving**
-- [ ] [Feline Philosophy: Cats and the Meaning of Life](https://lareviewofbooks.org/article/cats-and-the-good-life/)
+- [ ] 21 Lessons for 21 Century
+- [ ] True love
 
 - [The Future of Fusion Energy (Popular Science)](https://eli.thegreenplace.net/2022/book-review-the-future-of-fusion-energy-by-j-parisi-and-j-ball/)
 - [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street-dp-1324051132/dp/1324051132/ref=nav_signin)
 - Secondhand Time: The Last of the Soviets
 - Gödel, Escher, Bach: an Eternal Golden Braid
-- 21 Lessons for 21 Century
 - Spent: Sex, Evolution, and Consumer Behavior
 - 12 Rules for Life
 - On Writing Well
 - Hacker's delight
+- A Short History of Nearly Everything
+- Finite and Infinite Games
+- [Feline Philosophy: Cats and the Meaning of Life](https://lareviewofbooks.org/article/cats-and-the-good-life/)
 
 ### Fiction
 - [X] The hitchhiker's guide to galaxy - Maybe I would have liked it ten years ago. Although I can understand its point of view and the humorous/clever/absurd look at the events, but I didn't find it very much engaging
