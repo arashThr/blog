@@ -55,6 +55,8 @@ summary: لیست کتاب‌ها
 - [Jordan Peterson | Great Books](https://www.jordanbpeterson.com/great-books/)
 - [Financial Tortoise](https://www.financialtortoise.com/bestbooks)
 - [Guardian best of 21st century](https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century)
+- [Financial Tortoise](https://www.financialtortoise.com/bestbooks)
+- [Guardian best of 21st century](https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century)
 
 {{< /latin >}}
 
