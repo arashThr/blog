@@ -1,6 +1,6 @@
 ---
-title: Resources
-summary: Learning Resources
+title: منابع
+summary: منابع آموزشی برای یادگیری
 ---
 {{< latin >}}
 
