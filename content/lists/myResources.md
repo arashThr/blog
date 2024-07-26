@@ -15,6 +15,6 @@ summary: منابع آموزشی برای یادگیری
 
 ## Awesome lists
 
-- Docker: [Educational resources](https://docs.docker.com/guides/resources/)
+- Docker and Kubernetes: [Educational resources](https://docs.docker.com/guides/resources/)
 
 {{< /latin >}}
