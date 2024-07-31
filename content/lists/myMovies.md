@@ -6,6 +6,38 @@ summary: فیلم، انیمیشن، سریال، مستند
 {{< latin >}}
 
 ## Movies
+- [ ] Inside
+- [ ] The big blue
+- [ ] Parasite
+- [ ] Spring, Summer, Fall, Winter... and Spring
+- [ ] The Phantom of the Opera
+- [ ] Office Space
+- [ ] Death in Nile
+- [ ] The Whale
+- [ ] All Quiet on the Western Front
+- [ ] Kung Fu Hustle
+- [ ] They live
+- [ ] RRR
+- [ ] [Past lives](https://www.youtube.com/watch?v=kA244xewjcI)
+- [ ] Confessions
+- [ ] The act of killing
+- [ ] [Memories of Matsuko](https://en.m.wikipedia.org/wiki/Memories_of_Matsuko)
+- [ ] Lawrence of Arabia
+- [ ] Good morning, Vietnam
+- [ ] Police Story
+- [ ] Petrov's Flu
+- [ ] American Psycho
+- [ ] Poor things
+- [ ] The invisible guest
+- [ ] Crazy Rich Asians
+- [ ] Shoplifters
+- [ ] True lies
+- [ ] 2046
+- [ ] Fallen angel
+- [ ] Anatomy of a fall
+- [ ] The Wonderful Story of Henry Sugar
+- [ ] Wings of Desire
+- [X] Past lives - 2
 - [X] When Harry Met Sally... - 7
 - [X] Velvet buzzsaw - 3
 - [X] Leave no trace - 6
@@ -35,39 +67,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Chungking Express - Need more time to appreciate it
 - [X] The invisible man - 7 The best you can do with Invisible man material
 - [X] Gloomy Sunday - 8
-- [ ] Inside
-- [ ] The big blue
-- [ ] Parasite
-- [ ] Spring, Summer, Fall, Winter... and Spring
-- [ ] The Phantom of the Opera
-- [ ] Office Space
-- [ ] Death in Nile
-- [ ] The Whale
-- [ ] All Quiet on the Western Front
-- [ ] Kung Fu Hustle
-- [ ] They live
-- [ ] RRR
-- [ ] [Past lives](https://www.youtube.com/watch?v=kA244xewjcI)
-- [ ] Confessions
-- [ ] The act of killing
-- [ ] [Memories of Matsuko](https://en.m.wikipedia.org/wiki/Memories_of_Matsuko)
-- [ ] Lawrence of Arabia
-- [ ] Good morning, Vietnam
-- [ ] Police Story
-- [ ] Petrov's Flu
-- [ ] American Psycho
-- [ ] Poor things
-- [ ] The invisible guest
-- [ ] Crazy Rich Asians
-- [ ] Shoplifters
-- [ ] True lies
-- [ ] 2046
-- [ ] Fallen angel
-- [ ] Past lives
-- [ ] Anatomy of a fall
-- [ ] The Wonderful Story of Henry Sugar
-- [ ] Wings of Desire
-- [ ] Hot Fuzz
+- [X] Hot Fuzz - 7
 
 ## Shows
 - [X] Inside (Bo Burnham) - 9
@@ -88,6 +88,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Puss in boots: The last wish - 8
 - [ ] Spiderman: Into the Spiderverse
 - [X] Spiderman: Across the Spiderverse - 9
+- [ ] Wildwood
 - [ ] Luca
 - [ ] The bad guys
 - [ ] The red turtle
@@ -125,6 +126,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Sugar man - 7
 - [X] Robbin Williams - 5
 - [X] Becoming Warren Buffet - 4
+- [ ] How Music Got Free
 - [ ] The Lost Leonardo
 - [ ] The real Charlie Chaplin
 - [ ] The kingdom of dreams and madness
