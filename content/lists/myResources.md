@@ -15,7 +15,13 @@ summary: منابع آموزشی برای یادگیری
 
 ## Topics
 
-- microsoft/generative-ai-for-beginners: 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+### AI
+
+- [microsoft/generative-ai-for-beginners](https://microsoft.github.io/generative-ai-for-beginners/): 18 Lessons, Get Started Building with Generative AI 🔗
+
+### Git
+
+- [Most effective ways to push within GitHub Actions](https://joht.github.io/johtizen/build/2022/01/20/github-actions-push-into-repository.html)
 
 ## Awesome lists
 
