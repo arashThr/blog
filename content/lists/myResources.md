@@ -23,6 +23,12 @@ summary: منابع آموزشی برای یادگیری
 
 - [Most effective ways to push within GitHub Actions](https://joht.github.io/johtizen/build/2022/01/20/github-actions-push-into-repository.html)
 
+### Programming
+
+#### Go
+
+- [Go go-to guide](https://yourbasic.org/golang/)
+
 ## Awesome lists
 
 - Docker and Kubernetes: [Educational resources](https://docs.docker.com/guides/resources/)
