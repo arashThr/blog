@@ -29,6 +29,10 @@ summary: منابع آموزشی برای یادگیری
 
 - [Go go-to guide](https://yourbasic.org/golang/)
 
+#### Creative coding
+
+- [Nature of Code](https://natureofcode.com/introduction/)
+
 ## Awesome lists
 
 - Docker and Kubernetes: [Educational resources](https://docs.docker.com/guides/resources/)
