@@ -6,7 +6,17 @@ summary: منابع آموزشی برای یادگیری
 
 - Makefiles: [Learn Makefiles: With the tastiest examples](https://makefiletutorial.com/)
 
+## Learn
+
+### CSS
+
+- [MarkSheet](https://marksheet.io/)
+- [
+
 ## Coding Practice
+
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
 ### Go
 
