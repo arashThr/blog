@@ -108,6 +108,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Succession - 9
 - [X] Golden boy - 9
 - [ ] Joe Pear Talks With You
+- [ ] Attack on Titans
 - [ ] [Clark](https://www.imdb.com/title/tt12304420/)
 - [ ] Cosmos
 - [ ] Fleabag
