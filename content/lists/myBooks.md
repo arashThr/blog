@@ -9,15 +9,15 @@ summary: لیست کتاب‌ها
 - [X] Homo-sepians
 - [X] Deep work
 - [X] Moonwalking with Einstein - Useful tips, scientific, engaging story
+- [X] 12 Rules for Life
 - [ ] The Psychology of Money
 - [ ] Simple path to wealth
-
 - [The Future of Fusion Energy (Popular Science)](https://eli.thegreenplace.net/2022/book-review-the-future-of-fusion-energy-by-j-parisi-and-j-ball/)
 - [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street-dp-1324051132/dp/1324051132/ref=nav_signin)
+- [ ] How not to age
 - Secondhand Time: The Last of the Soviets
 - Gödel, Escher, Bach: an Eternal Golden Braid
 - Spent: Sex, Evolution, and Consumer Behavior
-- 12 Rules for Life
 - On Writing Well
 - Hacker's delight
 - The Art of Loving
@@ -27,8 +27,8 @@ summary: لیست کتاب‌ها
 
 ### Fiction
 - [X] The hitchhiker's guide to galaxy - Maybe I would have liked it ten years ago. Although I can understand its point of view and the humorous/clever/absurd look at the events, but I didn't find it very much engaging
+- [ ] Island (Huxley novel)
 - [ ] Crime and punishment
-- [ ] The three-body problem
 - [ ] Grapes of wrath
 
 ### Tech
@@ -36,7 +36,7 @@ summary: لیست کتاب‌ها
 - [X] Don't make me think
 - [X] Rocket surgery made easy
 - [X] Perl Medic
-- [ ] **Effective Typescripts**
+- [ ] Domain-driven design with Go
 - [ ] A Philosophy of Software Design
 
 ### Audio books
@@ -60,9 +60,10 @@ summary: لیست کتاب‌ها
 
 {{< /latin >}}
 
+- [X] کافکا در کرانه
 - [ ] در جستجوی طبیعت - غریزه زیست‌گرایی
 - [ ] هویت - میلا کوندرا
-- [x] [عروس دریایی - نشر افق]( {{< ref "April20.MD#کتاب" >}} )
+- [X] [عروس دریایی - نشر افق]( {{< ref "April20.MD#کتاب" >}} )
 - [ ] در ستایش بطالت، نوشته‌ی برتراند راسل، ترجمه محمدرضا خانی، نشر نیلوفر
 - [X] هیچ دوستی به جز کوهستان
 - [ ] **پاچینکو**

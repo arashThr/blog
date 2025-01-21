@@ -107,6 +107,9 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] Poker face - 2 (1 episode)
 - [X] Succession - 9
 - [X] Golden boy - 9
+- [-] Severance
+    - [X] Season 1 - 6
+    - [ ] Season 2
 - [ ] Joe Pear Talks With You
 - [ ] Attack on Titans
 - [ ] [Clark](https://www.imdb.com/title/tt12304420/)
