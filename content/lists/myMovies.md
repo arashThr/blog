@@ -6,37 +6,7 @@ summary: فیلم، انیمیشن، سریال، مستند
 {{< latin >}}
 
 ## Movies
-- [ ] Inside
-- [ ] The big blue
-- [ ] Parasite
-- [ ] Spring, Summer, Fall, Winter... and Spring
-- [ ] The Phantom of the Opera
-- [ ] Office Space
-- [ ] Death in Nile
-- [ ] The Whale
-- [ ] All Quiet on the Western Front
-- [ ] Kung Fu Hustle
-- [ ] They live
-- [ ] RRR
-- [ ] [Past lives](https://www.youtube.com/watch?v=kA244xewjcI)
-- [ ] Confessions
-- [ ] The act of killing
-- [ ] [Memories of Matsuko](https://en.m.wikipedia.org/wiki/Memories_of_Matsuko)
-- [ ] Lawrence of Arabia
-- [ ] Good morning, Vietnam
-- [ ] Police Story
-- [ ] Petrov's Flu
-- [ ] American Psycho
-- [ ] Poor things
-- [ ] The invisible guest
-- [ ] Crazy Rich Asians
-- [ ] Shoplifters
-- [ ] True lies
-- [ ] 2046
-- [ ] Fallen angel
-- [ ] Anatomy of a fall
-- [ ] The Wonderful Story of Henry Sugar
-- [ ] Wings of Desire
+- [X] The Substance - 7
 - [X] Past lives - 2
 - [X] When Harry Met Sally... - 7
 - [X] Velvet buzzsaw - 3
@@ -68,6 +38,37 @@ summary: فیلم، انیمیشن، سریال، مستند
 - [X] The invisible man - 7 The best you can do with Invisible man material
 - [X] Gloomy Sunday - 8
 - [X] Hot Fuzz - 7
+- [X] Poor things - 7
+- [X] Crazy Rich Asians - 5
+- [X] Anatomy of a fall - 8
+- [X] The Wonderful Story of Henry Sugar - 6
+- [X] [Past lives](https://www.youtube.com/watch?v=kA244xewjcI) - 2
+- [X] Office Space - 6
+- [ ] Inside
+- [ ] The big blue
+- [ ] Parasite
+- [ ] Spring, Summer, Fall, Winter... and Spring
+- [ ] The Phantom of the Opera
+- [ ] Death in Nile
+- [ ] The Whale
+- [ ] All Quiet on the Western Front
+- [ ] Kung Fu Hustle
+- [ ] They live
+- [ ] RRR
+- [ ] Confessions
+- [ ] The act of killing
+- [ ] [Memories of Matsuko](https://en.m.wikipedia.org/wiki/Memories_of_Matsuko)
+- [ ] Lawrence of Arabia
+- [ ] Good morning, Vietnam
+- [ ] Police Story
+- [ ] Petrov's Flu
+- [ ] American Psycho
+- [ ] The invisible guest
+- [ ] Shoplifters
+- [ ] True lies
+- [ ] 2046
+- [ ] Fallen angel
+- [ ] Wings of Desire
 
 ## Shows
 - [X] Inside (Bo Burnham) - 9
