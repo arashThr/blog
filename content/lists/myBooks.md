@@ -30,6 +30,7 @@ summary: لیست کتاب‌ها
 - [ ] Island (Huxley novel)
 - [ ] Crime and punishment
 - [ ] Grapes of wrath
+- [ ] Nobokov
 
 ### Tech
 - [X] Monolith to Micro-services
@@ -67,3 +68,5 @@ summary: لیست کتاب‌ها
 - [ ] در ستایش بطالت، نوشته‌ی برتراند راسل، ترجمه محمدرضا خانی، نشر نیلوفر
 - [X] هیچ دوستی به جز کوهستان
 - [ ] **پاچینکو**
+- [ ] شور هستی
+- [ ] ساعت ساز نابینا
